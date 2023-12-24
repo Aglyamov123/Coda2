@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Munoz",
+  "age": 55,
+  "address": {
+    "street": "Hudre Road",
+    "city": "Nuwiedi",
+    "state": "NE",
+    "zip": "70163"
+  },
+  "contact": {
+    "phone": "(571) 789-5045",
+    "servicePhone": "800218533"
+  },
+  "birthday": "1981-05-16T04:34:25.095Z",
+  "ip": "216.180.214.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Me hogsehicu izboum gelma afaocuri apwoz uvi jopzahtum fewutnan hi mi juvuici. Lo datewza si mi juwe efo kubnodta lockuwo aha hi jar ciaf. Vut mowupi erja erfar te opurak po carguf diobiga kuicagi hik filekbo joifo ji. Ko upvu sef davam ronof wadnal dege duzbe kafubi fiz dunbovlam magwi pefabsi so.",
+    "bio": "Gohavu geziz potpimecu is fasudpak lurbu bakhehevo uncipe zo das wilzej udecime dupuh rukuwju. Covkun sut ej seluv maccu lut cofeb zus to lad defevac ini etjedow joof sulazeze. Ez lo wejvobu ci nel ho mi sojgag vuge patud kug jic anwij. Fak ow kuki nu uvligbuh to ozculmif mupobi ipivicun miz zolrumdo fowfe bu midlu fapokujir."
+  },
+  "apiKey": "c03ff1252ce4502c6305654ffde26be3fe8e7e05a2f4061f651d45e8da26f255",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
