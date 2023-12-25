@@ -1,0 +1,26 @@
+{
+  "name": "Eric Cunningham",
+  "age": 22,
+  "address": {
+    "street": "Vopmi Trail",
+    "city": "Seligoz",
+    "state": "LA",
+    "zip": "18255"
+  },
+  "contact": {
+    "phone": "(231) 850-6473",
+    "servicePhone": "800594227"
+  },
+  "birthday": "2004-06-01T02:29:33.671Z",
+  "ip": "181.92.64.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Mope silokiluv eca nawgaaci jum awlahe lubdilet ti juumueka ede zus mofij denpas. Oce jileez uglak robor igozobmuw ufconupe zohdu pehji uro sim ezadoba wud ponube ha. Raegawos wohdem ciw zopnaw we po kavzerpud jo to gaboce bof mapma wenuaki jinbe bidwebzum bo. Kigmubeh wid owi kagalbi hehi kinah urejuwlar pa uwidalom sipluw viase zuife sisig met. Jim apcu go re ha gulivnu fu soomgo ibe vof nerto la gah.",
+    "bio": "Obouzahe olfar jufopvu nerozoufa bedzibu ja su tumvaz sibu go hocrimkiw mas nizarhu evse otgu. Wohos sipes zeifo kuksaluh zodwic teubboc feluplah duj zis ket ecupwo tiv bewtag fevo. Rip vamag sob jiuvo fadwo fehus hap mavpoc men dugol tadzotmes figwap wurgu robiddu bo kijmit huev po."
+  },
+  "apiKey": "c801a413807aae40e0993c74f39d360608916238611ce3e38c773a2358192a58",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
