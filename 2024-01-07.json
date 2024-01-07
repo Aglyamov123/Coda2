@@ -1,0 +1,26 @@
+{
+  "name": "Sophie Rios",
+  "age": 47,
+  "address": {
+    "street": "Eruren Parkway",
+    "city": "Osumohwi",
+    "state": "GA",
+    "zip": "10901"
+  },
+  "contact": {
+    "phone": "(503) 606-5433",
+    "servicePhone": "800967272"
+  },
+  "birthday": "1960-02-17T07:32:02.409Z",
+  "ip": "110.42.182.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Muszewo zerco fibsa opursaj waip kidu hav re niisok vin gitejiw bicu nerpan deut do ohucip cabro. Bovoz suhkasja litdesur heg dac kaejo dajniv biguse mopise du eve ezifipev zehov bi kejci ceffawla sehta. Mic ragehides mijhi li huh hareih bifhazbuh ofazukev wi av ezozofu suhehad uhsa cac hoj. Uc sifar fit bub fo su piro raat osiuc kob son juttefse dejwif tu vur.",
+    "bio": "Vodhid bujfor guz neze huk map ufe ujtunnic fitroh zur duv fapno ki puvno suvdorow ji. Og ket miveweb pel gufgumfo vicnilji mal rirsahel eleke avodake du gop li ciza espeh gatokevo ho. Nih lezeibe ojomeehu goiznal ineagi owuhe ga zengato losu gabho rimrami ta uwidesuh bab jegeb lag icezfit."
+  },
+  "apiKey": "6dbe0bb80c8dc62bd448ed19805ced8083b78432de827041a6208e11317fd614",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
