@@ -1,0 +1,26 @@
+{
+  "name": "Howard Chandler",
+  "age": 41,
+  "address": {
+    "street": "Vanpap Avenue",
+    "city": "Dietsoc",
+    "state": "MI",
+    "zip": "85696"
+  },
+  "contact": {
+    "phone": "(285) 625-8556",
+    "servicePhone": "800624238"
+  },
+  "birthday": "1966-08-09T09:19:17.907Z",
+  "ip": "13.254.46.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Olbis acoretaw orwez galzocol kedap jepo jo co diwluwet jebabe wafmob zu ef de. Vobockiz umitupu lig ziv heg juparic dicge wadekus kemab fo but caunicak malul diogotur. Jos epidim adnomliv mo mupmuwofu opezu ore ahowomkos sabofkot fomuhoz wasuvsa linin wu si devmahrer diras ice. Dur nibjer belag wahirdic zevwo gula irozor zoge fi jopisif gesovaze ugres navnelha. Kobi zoado ave if vobabigi zovijmo vunjasen cij la wu jadiknal pegjag buplakmoz omiki nuwbi.",
+    "bio": "Nasuz wepet jogufi gacbefun hoza oleku faf ud sab uha ugrik bekren ovusiko sa dulursu lesimo olega fehnub. Ra jutwurjod neperwer ofufa ajsib de ci omva wib bobon laizudi kome. Lufispes cuprediz hu wospehdi opeaga vov biredbet nidoke osaibzuv lep sahvo nuvfamna kipge fit ewakuhid la begduwpi mauwopek. Kubul seeguuh irenes cupi zu fa ju zit eso zacad ajtan vopugo beh fibepo kerasuj."
+  },
+  "apiKey": "95eee5c724d6cd41800fa9689ad5e5bc19776ae7553cef5912d69760461ff8af",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
