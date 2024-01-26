@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Herrera",
+  "age": 48,
+  "address": {
+    "street": "Turvaj Highway",
+    "city": "Lesguhi",
+    "state": "HI",
+    "zip": "84085"
+  },
+  "contact": {
+    "phone": "(705) 903-5760",
+    "servicePhone": "800737738"
+  },
+  "birthday": "1997-06-29T03:43:10.597Z",
+  "ip": "209.75.51.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Hem worbuczu wi ro guh vo fe jagsi vuj jova woh ekaosi tekrejka vonmi bopwih hu dikawi ricjel. Eje lilacvoc izturten ufu to loro ucitoaje fu kejdewip zeco za heh unapig belelren laztela ve jobefe rafgiufe. Wonuw veda dara cutimol kiun juit uhabowu bud rudihhin zoberla odcolava dehbod bavafir ida sebika pil tomeb. Ednanda wifafef ila wo fassa juslowad sihe uksavlur hoz umitekisa zedel nar baes me ol no. Puot lunziko sohikeg tuhsa enbi sopelpit jadbiad geede zis bazicikof etkekoj join hulmogrol.",
+    "bio": "Cose anati eni nadgok tifih usa fezot sab vo tevup muhtidek aji dumo hodaso. Ju de vuwe secello fucur orfed salogfo racadog jacilki ciave lov fecfit voglad hevob meh. Nuzu mi zafko vifo rigke hozo fehlu ima fiz za zacuf tepo durutce us caw vufeki oroncap."
+  },
+  "apiKey": "8d3f07018eacf7f1e58643699d3b84b58cd0b3e62e4e339947935079543999de",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
