@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Wallace",
+  "age": 52,
+  "address": {
+    "street": "Hehe Loop",
+    "city": "Lavotusav",
+    "state": "AL",
+    "zip": "81423"
+  },
+  "contact": {
+    "phone": "(361) 261-9761",
+    "servicePhone": "800322484"
+  },
+  "birthday": "1974-01-20T08:04:19.329Z",
+  "ip": "27.175.36.184",
+  "foo": "bar",
+  "profile": {
+    "about": "La zovlu adatohga ujuwew atuw ku onrez zis hud vesip hebefo dac mo. Rioma coipakic efifo ziz ika peov birvakmir lolumtem hap jatto diezo buw. El wal vem nid su ticnoame hutumiegu ti amesoit wuko pa casbuwek odoko wamwiv gi.",
+    "bio": "Ceb ob ni maruloga upualeoc dizef ba wufre gegcuc guzavhu gorcucati gov ab no feh iknitiba. Gepow nafu ozniebe ep tirwok um zu zuuh wucpage roktuscov ofekuguv obicuahe ar etogo. Kimulcav leor pi lom omi osdar vinpegro oderuvon zuszaow gu kikebi luwesvu mudalga afavev. Teuvebu ul sawu nioc hapoj wi burmevun jev putogo zi kubdal lu. Tebir simvis ba lo wudvis piajolu ijokuzak do zozzu gu wirrin uhmuriri saj. Cu kon pijzojci lahu jow gecte suzje kecmemve unopo mahi jivul ub jef ukuleda napunu. Dovdo oc ceviiri rooda cu iv muhodwu gokhof mukeuhu uw watad fujtu kuzorutin tomwavap upnil cu uwo gobwak."
+  },
+  "apiKey": "2509d2a452b5f2b1ec0604be60c2269eecffc6fbcd9bd9f9aa6d91131e331a99",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
