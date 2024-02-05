@@ -1,0 +1,26 @@
+{
+  "name": "Adrian White",
+  "age": 40,
+  "address": {
+    "street": "Purti Square",
+    "city": "Cubjolim",
+    "state": "MO",
+    "zip": "95170"
+  },
+  "contact": {
+    "phone": "(688) 783-4726",
+    "servicePhone": "800567656"
+  },
+  "birthday": "1989-10-24T11:57:52.025Z",
+  "ip": "208.39.186.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Tel adje lomepiki dustautu tokok boctalu sogpicvi ripatuh bijo ikpivi dintas odabardik ajeg fuslougi munodwu. Pupab hubdal vu vikir joh hahgun dinpo piladof ha cackeb ja rugome zagkud fimco nub. Recigo pinpizij zipkava gez annerse dop utoido ulo zelnoddon tugismor zomoj niliv luc duvbe. Zonowe ra netenemo lefku pibihira gu sefhuvid emaomza kepuci mocoaw ome pa nih isopa. Giv ojrepoz fukeske jariwab taj wufselpe mew uja mun tor johewpu fomu onwok teber memufiz kigheku ligizut zes. Ebavofki sow gemwo waocegef kehenin obmo pa rizna fusse hak merin pafaztom cu zuvalav. Kubuniib win bus mabbo jov ha licvoz higwocwa wedosaw wufulav berarkat vabukpe sig egavukom nufnine.",
+    "bio": "Zib jin et fap uwa kid ru guf zo rasri tigboj ifedajip dam nico jem gizaski. Gali rof vavoiz zibzuw za aze ho dok gewvac diwbi pedduno nos luvankes fibgaazi. Taw tetez belej edwike iv am hazgat ikul peoviut wat tamdode neflebkej cev gas op. Soktizsug tassenen otecavfew dekocdi wubhi ar ow mobjuis oke giv ezemezfa alurab zooh rijecme zi riagumih tuhitu. Kozavad falku adavej esu urjuiwu remuhen sethij hocguw tuganu raora untizin paddobib tekowcoz cuk fen beja suavi avudojmo."
+  },
+  "apiKey": "edd3283252daa14c5096c7a56084da6e6ac01de56fe49a0a62877fc0c6af3c46",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
