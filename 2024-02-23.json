@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Richardson",
+  "age": 60,
+  "address": {
+    "street": "Oril Place",
+    "city": "Unponse",
+    "state": "PA",
+    "zip": "13930"
+  },
+  "contact": {
+    "phone": "(752) 737-3881",
+    "servicePhone": "800656575"
+  },
+  "birthday": "1993-08-21T01:00:01.918Z",
+  "ip": "6.29.163.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Kivuh rueducag gofvelo zoehog haloc bogluko wetcikci razeet nebul fafob nuscavdu kaz bura dazemne hat od mium gu. Macdo ziopavo azijis ihiorsit tak jimol mejumi jilimugoh vif la li sukib elo. Ukopevka codalub lekwo mawasaege basbeic zulfo ame sa ba semha gogor hilriw oliseuf ra owo doguhran ka. Gicukpu ha ibuci we degpiog keim kucaduz ha ulnod sinug dodnezmi kuniv.",
+    "bio": "Dabi motuc moh agiza dag upo jedmu zirit nogaj uno buahedeh pevej uhbat havnowug fezo. Imo ka azonifde dohan du adcujul ka ijeusu sace vam sigaw zifdup pi. Ojlahim povfa dekdusaj ar uferu wegur duthulwu ufoifka adi fogfomri cefpille il. Tih wodgi ekisopop roude ekiku bu jioc fa welbivso sa omoohaez fub ar teg. Fo wa heemihu fohcewmo gam utru fozneeno laptuwo ligfev aweguf mon jucwev de ni fovfagez gepafuj. Nigse bu vogawna og ekvitle ocmubat ru oro wawtoffu rof juopji imizavi fif caphe te la do."
+  },
+  "apiKey": "dfb85bf47798b6e1772d277ee8872de74396a616846f23aca2f0379018e68a04",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
