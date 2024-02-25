@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Holt",
+  "age": 34,
+  "address": {
+    "street": "Obane Place",
+    "city": "Tovazic",
+    "state": "KY",
+    "zip": "04069"
+  },
+  "contact": {
+    "phone": "(303) 565-9367",
+    "servicePhone": "800162344"
+  },
+  "birthday": "1981-01-02T12:52:08.229Z",
+  "ip": "40.74.48.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Eh wewozke ovo lija dethan nuvsa hevo kuk cun jipku buf jeki mojzu li. Lijgasgov gam jo pifafip ocowa jezela pec jo so lofuhi sasodof woele. Cigal le oldonra vujuegu vo ri we kugwajha cohhe kac uvpuc ga. Uguco uba nujeccef egadu ferihgi lofmirpi daati pahe be uj rezuwe foj ehi. Fatwum tetruz asovisno jura fidnej eda zi hulte hota ge tor culel lasidjov woufje etjaw.",
+    "bio": "Bu ivudujbo cupde hinpo zindi rovzocak pilnic bo rije ku opijohu relaf gokilum hoca arzik pekfo idi. Emiko nihbicfi gacbuug wemwah lavrosu kuenu we ocbukme futirwuw guj pefjo nez mim enaji humirsu ozsabpuk tomsizro res. Zen howoli tegresfe rohirrer neggolruj wowbef gizhi bunuzpe megoego oh kodul sizhajec. Tibudij vadmurte vi raw ces jeegena muwaji fur rug poj zo le mizudo harzaw wij li. Dan irzitso vu tih kaz ronkovlen it mus seh ilibec tidet gij cedjikud ho ejoni pahmumtu nercir. Isezsig jopobes cusi esvisu owuopli zoowmi ikvebusa zes lod cecohgol atfa uti."
+  },
+  "apiKey": "f4462b980bf65d35d4de45796e071f73aafedd9448a767474dd549dd49cd241a",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
