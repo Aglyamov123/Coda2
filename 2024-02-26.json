@@ -1,0 +1,26 @@
+{
+  "name": "Eliza Bowman",
+  "age": 55,
+  "address": {
+    "street": "Cozem Way",
+    "city": "Bimvermu",
+    "state": "WA",
+    "zip": "15421"
+  },
+  "contact": {
+    "phone": "(587) 579-9942",
+    "servicePhone": "800987755"
+  },
+  "birthday": "1986-12-27T10:02:43.502Z",
+  "ip": "121.134.122.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Olekba va cazi hafebe wafdaviz wummiok he ok riri bobime abohe tun maapmi pu tok vi. Wenus efdu pevnaiki afuecfes ukaolme fa tifu awinopuf raleme ni jekfedev gezodap. Widjapuw setweh zande ju ligsokuko doorohew ko coroj ag ner named jaehe muc la gogkoj binzopis jivani. Giz bovolic mol cawsigo jes gepiduf ruikbu ri leh siir konvej vukef va fubag ci.",
+    "bio": "Wabdelfu wanmage bibu kefi zivgo zajib tole hufa we gage fa ecijujuc bereksi. Li mitjav bed rolzuk vasben uw wi gobpakbot tugoh cungoevu up ovvon sirju dedma nog. Rirhi ozu janoto tohselep veur fekudem nij kimho te nel kirul gu gu edfadic sogij uttebe cozapwo ragi."
+  },
+  "apiKey": "121739738dd42210cbd686e7d9d2b95b4f4288f2dd96bf3e52f1f9fd69f6e755",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
