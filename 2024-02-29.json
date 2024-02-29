@@ -1,0 +1,26 @@
+{
+  "name": "Adelaide Park",
+  "age": 26,
+  "address": {
+    "street": "Dejlis Pike",
+    "city": "Wulupu",
+    "state": "WA",
+    "zip": "52884"
+  },
+  "contact": {
+    "phone": "(641) 246-2717",
+    "servicePhone": "800747149"
+  },
+  "birthday": "1998-10-02T03:08:49.930Z",
+  "ip": "87.186.43.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Fapsortij ju usagodah nir muwe ar vuv hif umuubihuf wugohbi kebuwloj cobove gu ramecwo esa muhmub cubse uroewi. Egja egamefar ipul jiw fup lewvur hogivaj ezjolna puflamfes ji lu wuve nodmel lidubtu fuz wad wuvoze. Idfewhiv hiwuje hupid hid saiw tik ag poga neko dofokuvu ci naca dali ubisefap lotnejba res ic usebir. Micap hewiwo roev aw pen guuvucog juuno jika gaon bepfefnab ga vohilo hukupcic umjamec.",
+    "bio": "Tu cesritov ipe tub uhvabew umaj rewdon fusorsen tehive mewedguj sih amines ursogret bamataiwi legozkec. Muw zachaz ufo vurgipu if da utluhnar rap te zimnun awalolbiz gu hajmorev bipih. Seve cogkebmid ji pinur pazri rajul gi oce nesfuc ruozu gowa ba ab ataoto ji kog mehubo."
+  },
+  "apiKey": "cca4cce292364eed8abdc53ce34823faa6c9ae0d2e63f0ed8c421a77fcb7b2ca",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
