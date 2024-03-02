@@ -1,0 +1,26 @@
+{
+  "name": "Brian Austin",
+  "age": 48,
+  "address": {
+    "street": "Ekebu Place",
+    "city": "Kiguhek",
+    "state": "CO",
+    "zip": "38451"
+  },
+  "contact": {
+    "phone": "(280) 725-1173",
+    "servicePhone": "800135945"
+  },
+  "birthday": "1966-06-11T09:23:10.280Z",
+  "ip": "88.137.118.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Bu uga viuruk ulfag jiworim naphew su vapeeli ohuziw ligher zevkipgo je. Fuwzu mazita soomjuj sartofut ic hucode poh ivwagse hilrefol jipunka faida lub wamolo umdes. Lafogmik perwepze kaj etmucug facine hu vafo zebaho baowa ki eze mut mi ke.",
+    "bio": "Lemudunu kowdawap ipouredit icalawwo atasipot taz lufurihe zivapces pec ojijib zurucim eb mi li. Foswilog winam fejje ficja zuahivi lo tobad sansu heapvuc mibo nuati abijusje oza awupe cur jar. Seso lof oh tip gapba ohairliv iwci haiwsu nebjeru cem fu fefut cemoper. Ubapave purro gecuv gazog afaziv bu re esu anelop motobwi halwohig ucake lufta coub geg tar. Fo porhal atire uz rotfizi gumvuj kegeg maciip remum muswep esso pezjed pe detcarji uku wimuwaben. Git da goltoni dulnur eroziose av ahko ma nazmajovo ine pe na zeg. Vafpijsiz zazcicbuh gehzej tur osugulla ifawit jucbepo biagado gi tigu puniz omu luvbosiv et kunmiki ha hu fopev."
+  },
+  "apiKey": "8674949345f9478a2dfa2eada265ae5ebc1aac23d15be17c9350bc1a7e85284d",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
