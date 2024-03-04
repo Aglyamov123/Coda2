@@ -1,0 +1,26 @@
+{
+  "name": "Caroline Cooper",
+  "age": 36,
+  "address": {
+    "street": "Sonki Glen",
+    "city": "Kopgorvor",
+    "state": "CT",
+    "zip": "15659"
+  },
+  "contact": {
+    "phone": "(689) 855-4764",
+    "servicePhone": "800532142"
+  },
+  "birthday": "1975-01-05T12:03:40.895Z",
+  "ip": "120.70.48.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Terbowhu ovi timude us zawwa liem fuc zofola sotu pa iteva judvutoc. Narop uf ri eruif ligedezik etufo vauc koj cof kip kiano ur kufiob kin neheodu hatodib eb. Kokbu izobojak gaefed ri geujoane but citjeol gegupek po dok itepubul ogpar daip viegiha raljar to meh vifow.",
+    "bio": "Odavat wizonpid to kibka wawgijcoj fif rip mozeubi olwino vied kilho bufunete ifukijni vodmipo faerpa jaewiumi bawav efarozu. Cupitdo hos asudnef jamibpet divoj te inzumuh ivmuguf gog kunber hag cokgiha zevtotad durut pabez vupru efuce. Sip fe dotuk zuhkedek ofosonco abli ava tojmafeti ijfi beurjip si vobava. Du piw nizekas fepetod jaj pobbemec gok litlonso vite ali vu letukih."
+  },
+  "apiKey": "939fac4c8f054f03ea5e8420465a94f17cfc0e29ab3baec7b804c51efba06f45",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
