@@ -1,0 +1,26 @@
+{
+  "name": "John Patton",
+  "age": 26,
+  "address": {
+    "street": "Oldi Court",
+    "city": "Bursajsu",
+    "state": "AZ",
+    "zip": "54087"
+  },
+  "contact": {
+    "phone": "(274) 803-7326",
+    "servicePhone": "800755423"
+  },
+  "birthday": "1977-06-02T11:28:46.655Z",
+  "ip": "134.233.200.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Egiheke leggetrup keb tevasvef tih tusouc pem mewehi povjaszun fo kanu mifci renen. Fun vah kucizref so nipohcu wi lif zajtar sihin afo paj vuopowu ottor po vev pec iruhu zekfam. Wa kitjukcus seh jim naspiv somihu cuj ecoutfow wanluti daplojos juttu zor okjel piros ji zusmo. Arole zafjocti fajzum te bi kowkaedo li etni na gik aruwazcas dokval niejevo mocis. Veg vinmo nuva botomu nosor semvanco jiwavucu sij bagviw mavse kafdubiga larhit pul ruwhoro rakwameku.",
+    "bio": "Inalodvo leteber urfaif hor berajuri jef neppa eb tegeco jo fucwij zellap nirab azzate. Dekepwom ijaju talovmib vosgeoli efoki wucijo poza ota belza buwizap jaozci cu di guka vu. Unretok cegfah ijda nu vebide de behum kekuke bigpemwav hedukpu zejom tiew ecebu ulupedvi ma bifo fofekim enage. Lolne jedi peedci satoh du tonju huiztel kuteiz okte ju iroru oleneuc."
+  },
+  "apiKey": "c3e953243db33bda0308945986e7e75686f4fea1507fdf8a5e7b5a1e25fed721",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
