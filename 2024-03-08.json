@@ -1,0 +1,26 @@
+{
+  "name": "Esther Powell",
+  "age": 22,
+  "address": {
+    "street": "Dire Lane",
+    "city": "Nejipa",
+    "state": "IN",
+    "zip": "71647"
+  },
+  "contact": {
+    "phone": "(881) 660-7832",
+    "servicePhone": "800545668"
+  },
+  "birthday": "1992-11-09T10:19:37.948Z",
+  "ip": "11.156.214.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Uvjef gupwac cetwal jazozi epuzur jikihokip kag id pa risi ofuk du riavdo bufebo uvwavem ta futve. Lutu harkec lugjanto kuvipo iho usnem dumovoso niv peh osapba ek zas donowu. Jogefwe hufgo sefigta latiwuj no cupolin zumgawha makipfot liwurka vusi revhobre loruasa weksogu ekuluga hot bina tev.",
+    "bio": "Hiboliit ewe zoj fiufi etotocco ga mino gum ohodej kakar wovol luhleh akicafos puode vogid ni. Piglip lirlis we vuona sonvok wagzutni we nuucaac medzaew eritev vama ebmivper jutnuw ru. Vubku vutdim vasata tov bepuw wajuru uda toncojbug gipuv riogura naf miepiet pal bi."
+  },
+  "apiKey": "71f6b73402f56516bc0a0dbbb520ba62e288a8b27f840adf8be0ab9041f6cc06",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
