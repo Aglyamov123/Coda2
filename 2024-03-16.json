@@ -1,0 +1,26 @@
+{
+  "name": "Jim Walsh",
+  "age": 43,
+  "address": {
+    "street": "Opeipa Point",
+    "city": "Conotoba",
+    "state": "SC",
+    "zip": "55999"
+  },
+  "contact": {
+    "phone": "(820) 479-8869",
+    "servicePhone": "800697713"
+  },
+  "birthday": "1967-03-26T08:11:02.140Z",
+  "ip": "81.42.27.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Bumed riigiero iktuw cucvu tew wufdo rabag satiwwo cu ov uvmir ha fi weteoba. Bocwum ikesedmet mis fapun cof ran vin gatsepji lawowo helak waac zuhladran ad bodob buvud. Ehpof ijeno tiru fa lugfe or bebu mijrulu ka iraipvom bi maawdi bec at.",
+    "bio": "Bow evoeguvuw jehhumec owu izu worikfi imlomve gupvuk urulaca vogman mer savvezi gu va narovpo soegi eraun. As lureok wavudfa uzoomica fiheg vuin zobaverik ras arfeglu jemeki vocre levadtu rincakbi. Tusiri siwso go kaewifop butjekev naefi ipkah ru fav jim ki bupuwpod zetas viw huzif naf etifufil so. Etuhob urma banolij ep ge dil su degjij gimzibir bo sacini dacih orajo."
+  },
+  "apiKey": "cdff5162d52ec4015bc6a2a27f35cd08dbffdbfb1477e73faf84c5998ef2904a",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
