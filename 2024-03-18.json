@@ -1,0 +1,26 @@
+{
+  "name": "James Pearson",
+  "age": 61,
+  "address": {
+    "street": "Tutu Mill",
+    "city": "Butumuw",
+    "state": "LA",
+    "zip": "48564"
+  },
+  "contact": {
+    "phone": "(751) 477-1755",
+    "servicePhone": "800678924"
+  },
+  "birthday": "1974-10-21T10:39:53.209Z",
+  "ip": "65.43.213.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Adwi cinahvid liho ujo ible weppot heamjo cemabec gihdoluc foahi tum dolheb tuncuk. Lurzuzu uzike ba mapoj mo fon susbeb has vugrirno gacvive zapwu keb huzigejud. Fi jolfeat ogi gakwoziw ihigi hopife feglitu lal rewlo uduvu vitwal vemvo ja.",
+    "bio": "Cafmurde kedeliw hod ku wopavi fas jav ohnus fet fim ufkas kad. Ho ig sompazjos su recuc futheru re azifah poggab kuwe lato bir sodjonde upu. Nisonera dimuppur urcop jouzab rifume sif or bof aznu jotirsig tonaha ji togrojwiv guj ozele vuecauza. Relez ni eba vawohho gi ileur akislit fez le bafso le la joiwife upe nerjogazu."
+  },
+  "apiKey": "d0d56b34c75fc603df9cbbe9e78b26070495d9bb11deefc183c67399f7098dd5",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
