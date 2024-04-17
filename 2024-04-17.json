@@ -1,0 +1,26 @@
+{
+  "name": "Sophie Copeland",
+  "age": 26,
+  "address": {
+    "street": "Nage Point",
+    "city": "Wactenov",
+    "state": "AZ",
+    "zip": "07292"
+  },
+  "contact": {
+    "phone": "(835) 928-7681",
+    "servicePhone": "800976929"
+  },
+  "birthday": "2005-11-30T08:12:54.412Z",
+  "ip": "120.223.66.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Cofunata zej hivu za uccu ro ulo gepmogke luw ideromdaz bipni eciuno newrih. Aszo col conup kerbu dougmic rubeni disrir afino ko hah juzho giblikir sam etadekahi boki zewga jeseozo. Gobavovak loga ugoso mi nitogel le co vodiz ritzisgen ahuus epi tonal mumohe nuko lak cozim. Ranuz eke vudacubaw kuw bew mantulin cu fegesa owti iksillu nibi ro me zo kuapu lig.",
+    "bio": "Bikev kuj denu catagveb wutab uvasa jefiwpi ogahoj gufir vu mel we winov ruju. Ne sit vobnu eg pa ani ib meota ne poc bo tizomti jikgep docviehu bikejol me heppazeno gisawa. Hoses ni ja pufoafe mu ofunipiw basjolda movadilo sunte joget od cum waizcur."
+  },
+  "apiKey": "028e9cbc19d64c7188b6c9f3de69d692dcdd6097ab9ed287fd32a5f3f068cbd5",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
