@@ -1,0 +1,26 @@
+{
+  "name": "Mike Berry",
+  "age": 60,
+  "address": {
+    "street": "Memegu Parkway",
+    "city": "Miubaniv",
+    "state": "IA",
+    "zip": "10690"
+  },
+  "contact": {
+    "phone": "(420) 748-1788",
+    "servicePhone": "800529615"
+  },
+  "birthday": "1996-07-21T09:30:40.504Z",
+  "ip": "217.147.206.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Ujepe kiwim pikufle etisiej fe wovo gap tuwwome faheru uhuledi semivor cojhawke obiuv ule pi. Si jegaga cuzuvpus jedmaji budevvec kukivon ena rov fuat vivdadoh vomdegmo bihligu remvehuc jalucaw hehelero vur. Bapiuj kiglof im fieju bumumde wi hauho ejufege til jo kaguzeme uflabab ru makwasdo icna wouzwo ta. Jawbes kademinu da wovna mer atebusub siziw vu him bedmizoz heufu soduve fifju ov pu. Ibwur lo zemdita oneve ijokoz so vodolu ehekoses horec muino sukiwi re fovkuguke der gefo maucu aje. Rubkek jodza kehul dugubu urfila iv di woopoafa wakgiju mogizwej guwi tigigno gop zeturale buge icitok.",
+    "bio": "Mufa varesbuv uwo da cupik li asazo az ev fe sa piket litrahre az be nabo puruze. Caccojcu ra hariri uteobi aco desfu zollu abdat fan toz wuvausi co tovede. Jufwonhur sosmepni olenad rik afwe ofivone fijcid we ti tuk guwoblur kazooto redtihla."
+  },
+  "apiKey": "9ae386e2b9dd309a251204b10b546ab077b6b15486413e6cff770001107d92e5",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
