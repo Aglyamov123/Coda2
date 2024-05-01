@@ -1,0 +1,26 @@
+{
+  "name": "Billy Williams",
+  "age": 35,
+  "address": {
+    "street": "Wacek Manor",
+    "city": "Zuhucis",
+    "state": "SD",
+    "zip": "40902"
+  },
+  "contact": {
+    "phone": "(264) 624-3664",
+    "servicePhone": "800567318"
+  },
+  "birthday": "1998-08-06T02:15:18.914Z",
+  "ip": "137.127.64.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Wizdawki amotacte suphaig af lizso imrerig uge dirutlov ad ibcez tewu loap ridomokot rissuf jisvu vu wuzzi jowhaguv. Loopaam bufje lu vestul fuwub we ujka kugij ijji itu kol peulo. Gotobbop aw ja vil ezedi jiun pise ho luzofzud ravfagzu civjub gu puriju lippiz aroji lunve ojotalo banulcaz. Voz zo oronugo wun roncejdi erukpo wez faharguk zaziv elfab matopdi rojunakab pubbok rilu fururru sowgap adi ajukinzu.",
+    "bio": "Usegab we narmor juwuba haorovef itari de to tahcafe wofa ipju ruloziw kajozpos rizedza fim vi jeji ine. Galoz lav dodek bisono not gosasu solpa sitit tefkup fugnawva doha fih koiz. Dehadlab vanfa tet savoh pic ep iju riju alazuot nenmo hi gevop na sidkusmi."
+  },
+  "apiKey": "e4637b1a6ccd4729f409e3b8b7410b6eb52f2bc232470642ae7ed0117fd763f3",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
