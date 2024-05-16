@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Wagner",
+  "age": 51,
+  "address": {
+    "street": "Gucib Street",
+    "city": "Lunojun",
+    "state": "ND",
+    "zip": "09608"
+  },
+  "contact": {
+    "phone": "(909) 748-6259",
+    "servicePhone": "800681539"
+  },
+  "birthday": "1998-06-19T04:42:46.784Z",
+  "ip": "98.85.189.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Zozfo senfiz zafabere cu us linewiaf igovozu hujapi ihapubil pu le suz cezwuezu. Ume wu wedadza nair lo jovam umice bonic simarhiz tobbawvuw we bahog. Faftumuh wulalhan nikibto nues liwgu zupvo mev me gualu rucoaz hep tiz higju ve.",
+    "bio": "Onowaftol fapku ukci omanacod dor anakugnum or fef ruacu tekamawe dov pipigpok veiw koriwes beggosi zuckoudi sieca. Zumobdo zowmo ufroguv lerhadima johunri jecaawo cab li tawara laz terovu ekiwazoj mov lazvifom aro. Varpem goohune puecece tu ewu zuk uve epi ar agotun gedesu ali vovaru hupjewuj."
+  },
+  "apiKey": "7c9fe663d6f3ef7ab162c8360897947efd22bebc93403ed2ac07ba0cc4bf1614",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
