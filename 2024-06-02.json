@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Fisher",
+  "age": 22,
+  "address": {
+    "street": "Ovaare Turnpike",
+    "city": "Ufirelli",
+    "state": "MO",
+    "zip": "61898"
+  },
+  "contact": {
+    "phone": "(786) 469-5587",
+    "servicePhone": "800384467"
+  },
+  "birthday": "1983-01-10T02:40:20.299Z",
+  "ip": "117.237.88.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Mu kilvaz kehelwu bibum tomezi godihuv lonrak tavo or cilvinu rekfotso sawup. Lusedu ko ogatule duf ozag og cuwor nu tugi lozufid ledsida cu. Lo eboga def dimoozo ifo dacca kaumib ojreh patugbi rozbuabo zuhtemlet ilohemu. Fo motewo sok hofga kav zezfavrar jowticfag wa iclo pa oc paz to.",
+    "bio": "Naf lezor zaewfef buusere fa wasmublu ug hajipa ujmi sit il ek sid. Mif veh teb sutoir rueveubi lumugjas bo seukeket riwa wemapwu wacdiv tenfo imjobde jovsi. Lis pejic be vuvu akjiz genfiiri gijij zevze pola iti fillopuka utu."
+  },
+  "apiKey": "dccbfb5420c379f5c634fa79209ac727c716bb1b617e1e412de73b55c40a7a3b",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
