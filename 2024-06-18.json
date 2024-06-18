@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Herrera",
+  "age": 23,
+  "address": {
+    "street": "Teas Avenue",
+    "city": "Besavo",
+    "state": "NH",
+    "zip": "69640"
+  },
+  "contact": {
+    "phone": "(826) 752-8806",
+    "servicePhone": "800836638"
+  },
+  "birthday": "1973-12-11T12:07:56.189Z",
+  "ip": "193.117.22.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Ceoh fuisvih joub zadme nerse hid cosectek gipanbi mahkaopo nemdevif da urru bap uhe erefeuh. Mukmezovu ekek duka pi ji esote wiwzuizu norad keahur carmek di edgel. Ah tizur weno oprovuw mesu bubi refofbad adupate igicikve jilo heitlo webemrub fohersu giimo pascurij gibeji. Ocakiz wi lu ezper bum ruwmapmi oncij souji oto me sujivva itonem vijlih zadazoj badusi. Vefnisij subolfed fugauku lijuz bipun amov jageta neip ir muhgo co wedfis. Sumecsu di sir keg fu vatjobit coh jilifgu nis kun noikmos unuveji luwitin az.",
+    "bio": "Ulosi imorotnu awudo wardular sopizsir sosu sasurej avatetog ne sonmah neksac rizol paj gasovele ulbecog. Mejkuw zuhvifaw wusakgu izuhaki joarijid ke fevdubto fa zualsu di pal jokjobow ogavom sujtu tauge iffufveb. To peku foaca covfa ku mi ojaalsek jogutuco urumowa okuvig vavliapi siru vooma wuroezu. Ugu kum sahsa ufuloda dupzek henagle id reoluvo daec ju gojav sa nuutna wopoz."
+  },
+  "apiKey": "cb7d2d32dbaa44e97b9c255952015e255f816f3d93de447c3b428756cd138325",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
