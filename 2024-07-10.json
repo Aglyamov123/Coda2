@@ -1,0 +1,26 @@
+{
+  "name": "Herman Patterson",
+  "age": 60,
+  "address": {
+    "street": "Coem Court",
+    "city": "Rukagvok",
+    "state": "NV",
+    "zip": "74111"
+  },
+  "contact": {
+    "phone": "(262) 704-7143",
+    "servicePhone": "800448578"
+  },
+  "birthday": "1967-05-01T03:12:42.713Z",
+  "ip": "9.43.244.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Sir aprugoz cilizlas vebole oraweos kiv ceckiwu lok ri sofi ug elaenatob omjas. Soviraz kefidawu rodajni ubpeori vopol mekujoso detesa aju pofomi ivimed oneharu cutan pave odoso gufo fu uzhuh uze. Kim wa devcen to hizutda sivomef ilpef tig se kiusi dag omi egsu. Du lowuf zawfafca ipelaf wutadhuv pancuka taba cewucoc riviwin vislizji eckes ariob fifeppog icba colitfu iraumwu. Indavak burirsut cownaj cihi mes azisoska ricu wuldodha ofipassil zum ivve igcoca. Renu akitah vessavzat diwuk om vijme ogkubido kuffa vutu meed melzub zazo hidirlob nefbuhu nafwukjuj ice ritead zedivca.",
+    "bio": "Vivol kihizle one zop nunu zazud jozuc ha vino te ga rumop vagit neteed vutewcak caw hu. Ludtuv otlod gegur kecir il ta rawcil hecnemaf dejpozeb ijso nukgo oplub juh ivcugmas eko pi ba. Roj ecjij becfewlek kitunu cusduin pupki recgasi we dudhed ho eb na uwi pihwaci nozivib ireci."
+  },
+  "apiKey": "c3caca1060414e94b7e65584ff3029447e33e8a3d3038f759a5710ad22f90199",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
