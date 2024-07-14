@@ -1,0 +1,26 @@
+{
+  "name": "Amy Johnson",
+  "age": 44,
+  "address": {
+    "street": "Rennah Avenue",
+    "city": "Rumuig",
+    "state": "NE",
+    "zip": "68259"
+  },
+  "contact": {
+    "phone": "(568) 579-7823",
+    "servicePhone": "800728212"
+  },
+  "birthday": "1965-09-14T08:23:44.887Z",
+  "ip": "16.221.52.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Puleja kisu pilef sal ditag utifo normihov vic uk ig temvossa enimuli. Gudifow hizi cew okugi cufvu padopi farued vazeiz wicufa ko asrabdi uf. Josurid fe bofe sik gajavi rurkojik cujedhih gijulukor la siefgev hakevnuk iji at owuficud noz caj eroucsi. Silcikon sirkufcif erzarka ujduzo kurwi cuz ivce mu ebvok giwiwde sib gehru la sube raasvo zoh wuhhu zefigos.",
+    "bio": "Vilipsu hovuw ni jeggaz hagehuj lewsirru nago humkesgit vowhag ihujujosa vel sa zijej uwu kup digof vujam. So sujha deg cokvilawo juli nu si vo vegiz fe avedapo jagu julivar. Amped ravingot femlucir akobe uzkan darit how wumreote udula puporo feoge ro amefel buz."
+  },
+  "apiKey": "d644c50f343642895dc9338190ef3d1268ab11154824bf8d7eeb6991917e138f",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
