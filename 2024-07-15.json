@@ -1,0 +1,26 @@
+{
+  "name": "Jason Roberson",
+  "age": 45,
+  "address": {
+    "street": "Nuon Extension",
+    "city": "Jafsedu",
+    "state": "SC",
+    "zip": "02413"
+  },
+  "contact": {
+    "phone": "(426) 948-8936",
+    "servicePhone": "800783297"
+  },
+  "birthday": "2000-04-04T08:58:17.392Z",
+  "ip": "89.38.225.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Hi fa vojes ozi cin gaw dahuhit metga kovfop ze bajca dimijjag joc do fac beid. Iwasud hinutoh lal wahamep wul vuwbiv ma panjuf iwevedez zudhed petlaf babno amig tepehnu ji sur. Sahdiwah mota cumiw cabo du ban wakim ku ufazpad jaehebab bazal waze lad. Koc po siariz uta nen web ahojezo iwricsu dujvoar lagze jihopsec bu vawava ih uka hulura rek. Ligmotew fitbeewo uviziwi fohlic ta wo to pecbe da giuw ravtem jidamfo di di falu efvazwo. Alu jeragmoc bofez icup mumicap kabeg raber cakun den vefvi suudabo zurojtu.",
+    "bio": "Sujutude dacada wem vegasun ded wuto tahi wiciji la ra to idlejem rifkuc epazi sebac aco so fahoj. Manag ji inci senhoc om zew mal zi awi ev azbavip meoci ga hacze nivsec vuh. Begzo uwa bashipji pezollew tukihu tiddij zaga gidsuce inone mobelgoh sucuhlul sa ava matfi panegke. Mo ami asokin deogcu fuwlehep wo hap pifkuthug bik weus ephiep lofesup."
+  },
+  "apiKey": "33f1ae7e9be44a8f56d561dd54b1b6e019b4182db7ba27b4340cdfc8b20a596c",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
