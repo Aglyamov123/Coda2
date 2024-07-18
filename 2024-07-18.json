@@ -1,0 +1,26 @@
+{
+  "name": "Seth Watson",
+  "age": 61,
+  "address": {
+    "street": "Hovu Path",
+    "city": "Winoec",
+    "state": "OH",
+    "zip": "07646"
+  },
+  "contact": {
+    "phone": "(227) 724-1814",
+    "servicePhone": "800368894"
+  },
+  "birthday": "1990-02-28T08:49:56.784Z",
+  "ip": "190.133.99.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Iw wakifaj zer sobozraw aw pezo guilka am itjoz guref zi jiduz wudki fiufiuf. Biteoka japlov aheheoru du toazogi ig lizru po lavlug dozuoru gi humewsi zuzud fe bagugwi et baos pigar. Et ilid vo veebidu go vun soh ohsac segvuho kofvieh loorlaj zi akeuwote. Jitihih isla dipi emelso ce mawaon weh amowez avu beidopoh poimlo vev wut.",
+    "bio": "Ahirajloh fawor ubeolapa ako poivti amlol voam dohdiwig mucoj homcuc cegaf ara. Iwa ves lolfugu ge garogmed oda gujuz lu gob duswujep supobwu mobu ho ape. If efmeklo ot nuvlo hijcipji ti midu haazuti lop gavu zehukawe tewvetsu uromub ulvegris. Uksedon zaaze tinec ectud darciwga ce te zu ogcis sacag ilelarcam dor torsub reji."
+  },
+  "apiKey": "06a38028663541df4965a8ba0e7e8e86f77d69e572de8d1f6d6e202d66ba0b50",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
