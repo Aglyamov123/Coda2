@@ -1,0 +1,26 @@
+{
+  "name": "Chris Evans",
+  "age": 19,
+  "address": {
+    "street": "Puvuho Park",
+    "city": "Fedbenpa",
+    "state": "AZ",
+    "zip": "52526"
+  },
+  "contact": {
+    "phone": "(687) 869-8708",
+    "servicePhone": "800925655"
+  },
+  "birthday": "1984-08-06T09:48:15.554Z",
+  "ip": "82.196.225.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Hiz sikuk fovabur ufoatetur jippuut si zah ziwdimze wogwebduz ehhe beefa eribi raj wepza guvu op. Mapovra ivme pecteop re uzeju emhinhuz pol lunkatos ci dim izdof kegurfig ruc nopla. Sattug em rapponbu neokija kuuvahe ezojabbon fuvnos cikzot hiwri dipwazkar nubembaz wiphaguc. Nevoduh poclo ivelozreb lutad ri tag lazkoti hi newrolo mamos ubomejuc dus rewlu mo. Gocoffu vimono dekohbof tostek vulsis moroefi juevvu vaotuota emujreh oper mabe pi unasorne. Zucsugtok duboswel nu hiv vi bem vuserze tewip vakwo ekiwi atla ifjillif pu.",
+    "bio": "Nasvi obfor la cusepu sefepep rogiraf ohvovof cucas li vohbeve ipuojlil zemrihej wa. Ucji punamwim wiiz haanaloh vik kujakki ihihat gon guf koekaco irutoh paw pa gezzo viwzazsav ihovag inuikouz. Mipek bilkore zu redis irzi sawus rurevdu etwa mefbabi anfola ketevi sithol hev sugdazfav uvpetap kizogaj."
+  },
+  "apiKey": "6ef919e9e9e193eba517064f67e91d09599d00aaece9db2e556031f7fd691ecd",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
