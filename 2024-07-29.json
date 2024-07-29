@@ -1,0 +1,26 @@
+{
+  "name": "Francis Lee",
+  "age": 27,
+  "address": {
+    "street": "Sijez Parkway",
+    "city": "Rigrubas",
+    "state": "AK",
+    "zip": "59548"
+  },
+  "contact": {
+    "phone": "(734) 872-3152",
+    "servicePhone": "800211331"
+  },
+  "birthday": "1981-03-02T03:24:11.171Z",
+  "ip": "73.67.202.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovvo tafroswi fanri olhose er talazab si daezi hatuba adpin su mivfi. Ledadjo ah bi sodo fi cab zivo oc temipmo hanu domubfo ero ju sicto ever guw heb ocdopsu. Vusag agozul fe guk bis mo usiwedaw enoz ofotewe sih joaz zu taume uvifogmij.",
+    "bio": "Tophin poz kiwulmo zecso cuc rine zub safike vokupuz ete wead bavjawof goko nuwsajdu avza nuwub. Jo lu ho betog bo ram muk wig vol li an cecse ejurtig duvcek ho emeef ejuda pimlud. Vimul gamo wuis sifvi igeh dira aka bed ja faize sukkaj rak banje dan kopvi. Ehaalpuc po zigi osha ujupab atamge sa domwi tekup emgub oj lejpo cedu weepoza zuriju. Omiwu naf nolto lijat vipif foisa elfugsip la ihoeduco joze joetadun edanomope. Zekfohzu rapki gicid ari dutrubez fuplil bag nizmof micko somig rospodra fib mopja wob lapcibij. Du juvofi muksa zikuto mefsah ceron odmubwil abpezi zesiga warnok enufetgu larevwec pu ziruopi kamlujejo eczuphak."
+  },
+  "apiKey": "cf29fbc87b2b458efec184869d3f8f1f552e9d912b00e6a0aef141402e9c85f4",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
