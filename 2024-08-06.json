@@ -1,0 +1,26 @@
+{
+  "name": "Dylan McDaniel",
+  "age": 21,
+  "address": {
+    "street": "Sibhu Turnpike",
+    "city": "Agonadu",
+    "state": "NV",
+    "zip": "35599"
+  },
+  "contact": {
+    "phone": "(483) 443-9048",
+    "servicePhone": "800473929"
+  },
+  "birthday": "1986-09-27T02:54:03.939Z",
+  "ip": "43.69.44.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Kaase sizfe tac recalgif gedteubi invef ehu dadjuhnur wimum bivbu bojaema hiakeis maple. Sedurzi don kovla ca ut belsurvum ipah cif ruzitorac degta cudegsi aju uvsiz. Gerefop bofoli fi avu pin taz vulem bacoh adegu em rij caf ki ni vamligej bano. At nof wofciw id cepanzav pave mat vuganti kezuiru pu tu tafife cihcek rabahfo ad pelonafo dalmug purrih. Iwve burupi giduh hehke ubojupew jicwewfod icnac tonape uge amokup bomlemeh menmec dazi hatu vosaege. Ifkob pe vuzitaja jejvagseg wejihci raw ofa ronitva nugotah zujiz feguku za ceje don nokke.",
+    "bio": "Liv boh tuvsefze zojzub gubho moohazu uzu edwuire nekuginah hadimtuv kal mallaftul sipli gorhu. Zah fodtadru ogikibbum zas kum vojnugbat udtutebu vi pi acnohuz tukgic zakal fu bogezeek nubew la wu iwaowsu. Lebziibo enelobaj fe fabgesijo gefdi ehibo dikewa lowsu megboro evwe ufomus ti zoceb anfij mapazuh vuhikep."
+  },
+  "apiKey": "f5c04e6184796be1b59774ec5486aa2c4caadf74cf2b785fa8a6d21ac1ded58c",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
