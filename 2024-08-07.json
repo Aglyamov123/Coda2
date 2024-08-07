@@ -1,0 +1,26 @@
+{
+  "name": "Tony Perkins",
+  "age": 50,
+  "address": {
+    "street": "Fiza Mill",
+    "city": "Zatonuwu",
+    "state": "WA",
+    "zip": "87822"
+  },
+  "contact": {
+    "phone": "(278) 323-8724",
+    "servicePhone": "800872977"
+  },
+  "birthday": "1982-01-01T01:42:54.491Z",
+  "ip": "75.101.182.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Gemjutu etiluv jukdamodo umkicozo de ka ru elru em esce sofe vu. Ogeneero kuzepohu headiet gu iwipce sejnipaz gubvu ri mebkis forhad iheho roblivuk. Hizramgeb mumuv pemodaf dasiki dolafur lo fedazowak lolef law fe fub suw seedwup peneva nonru gukemu.",
+    "bio": "Benmatob jathutmij be ramub ze tacuhu ulajoih pih umaza jogirsus jomwet eno va. Cuige talwoivi dahvucan zebfodwi fethi ditu ceka oz fipcur upenebwe acmezcov ic devzijez ze. Likadfud hofciino vaf tiszo iro du kamul rasogo den avofez ew pikhi eje zeksa evokule. Gak puj fo vensok pinwaonu kopziz lemkazdab oleusa vaf bonon moah ahleec. Tokanile kouvi fap lella arit dirovje zuhezaw wodtoen negzuto devuhu nunup rigupjon lidiwlot. Wibtewze behot paal feroca natebje razopa osokomo ino se mif peul hih."
+  },
+  "apiKey": "1de15152aff86a234f3ee667e205b9b3000dac9b8ca60392af16740a58152e7b",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
