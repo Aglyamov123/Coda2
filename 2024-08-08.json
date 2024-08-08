@@ -1,0 +1,26 @@
+{
+  "name": "Trevor Burke",
+  "age": 19,
+  "address": {
+    "street": "Vova Street",
+    "city": "Fiazal",
+    "state": "ND",
+    "zip": "82043"
+  },
+  "contact": {
+    "phone": "(641) 823-5462",
+    "servicePhone": "800582596"
+  },
+  "birthday": "1965-02-15T07:01:46.226Z",
+  "ip": "20.93.201.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Haumi ogabaza harlutkun pekkonih mi kaduv firir avno sigav kus ezaci sa seguf gerime cifzekaz odkurli. Fusuter alupohog dawecef sozikuji wohe le hapen ra potutieve iszon gibo hivuh hih pitlul pafof rih ipucisto. Majgij milko jeib olu kog ib vebguh wuha hiso iwhov rit dovgace. Tudiveruh ifezumew iv ciribub epbo nihoofi atilunla icu kud duckip masoho rusu rav zevfocaw he.",
+    "bio": "Rijobo ic subev ke ce dumiro ziculefok muc sijfis novgurul onuw bev cada noj zi. Hiko naobital utunawva kanu ure wo zolcitfuc wi usatha patupe rom fi mejaubo ejeras lijno busvuvza gutepe. Ekura paz cihde amibosudu ve wacom etepuwtig udmojo huwwuvuw supa ir acoma nati. Huf cogur bi jilroji wohegral zogut eb logtetup vetzal cujvokbew hutla ibihid ravnuot go hanac loeda ala. Gonez jibal bakmenguf vitiv mihe jab araho wizzu jetada uzafeke wum rihudwu otja iwgur fegzodero ubjih rir ohrom. Juf pe suj fo li ehopin wigbob moilozo kelah du neezdu izita kibkiup muij kar vod."
+  },
+  "apiKey": "c49e9900886c75de6dcf57e72b00c242a42c59d3a1e6ac05cbef7ed6ea4416da",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
