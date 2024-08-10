@@ -1,0 +1,26 @@
+{
+  "name": "Kathryn Grant",
+  "age": 45,
+  "address": {
+    "street": "Soble Drive",
+    "city": "Erkijgu",
+    "state": "PA",
+    "zip": "60249"
+  },
+  "contact": {
+    "phone": "(749) 699-5424",
+    "servicePhone": "800146269"
+  },
+  "birthday": "2001-09-13T08:04:41.185Z",
+  "ip": "212.159.237.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Wari imjabbe di ecagekmo vokunuv kelepde nacapju ru vis wezcako ahofek vuje doviko umdi. On kanwa weageuz vetu jiko bug to avtonwi cewa odejadla op ra goleavo gu kaloeva sucu. Kijofawar cizfuv wezrow awlaw me lavge logu wazuf nuftuw onucukev vofran wawle bi poob. Nar josje ned vuketda wubta esuruna ve anios arwun famgice go vanez. Woteb jidzaewa homak ju uj cevik feput igaduce ko teevumuj ikusobbu papebuk tovbu ro siroije.",
+    "bio": "Govmujosu wakep geolzag agacoize il moho napervad irikoce vomiji gatep afa upmes. Bujdoskiv rom eni fok meh zuhzubi po duiltit nakha pecjov acuru haizgus. Hehocni bo daitni edurujo liw haedgo pifpu suw dogwuuna wokha nomubo belot gain. Hessomu biken tuh kiffib corat ewiugtaf miorelo nehisali ren sizfemmoz oli ivecu opfame cuejmo du. Gu saszid daggug zofeub vovpo jadja ci socsicvi ubzapso dovil ge kezaz."
+  },
+  "apiKey": "530225ab7c789f4488b577981518d5aefbe8a65cbd91ed658aba6f943e37d4f5",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
