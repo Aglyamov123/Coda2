@@ -1,0 +1,26 @@
+{
+  "name": "Josie Rhodes",
+  "age": 25,
+  "address": {
+    "street": "Akege Loop",
+    "city": "Tibanood",
+    "state": "OR",
+    "zip": "28410"
+  },
+  "contact": {
+    "phone": "(367) 308-1895",
+    "servicePhone": "800257946"
+  },
+  "birthday": "1959-10-01T01:47:21.186Z",
+  "ip": "195.42.45.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Rirov lad za celircuc ipuri rero hehwakke pez kuw lillo iz hoko rifaube faspe jawva. Jutoc ramfan empaefo jeg da sofjuhoc sugca heruti zah teevi ujwajmi ujuif lemukik det. Vawmimu pow aci kiaguvi ficaj sawatu sim fiknufki hiz rearagef abi hewe niredve bo ig lu. Nusjeol ijoke walezse ke jodnavlu ewwoh ad bufjo zewkom ci seban hi bumo va.",
+    "bio": "Nebuc mi wivomik megeg ripnaz re nerpa civ kaza urimit hu tivruswah. Kiv ihimuwef fa daj uzfos ihkulka pilu ibtoz mawpewfa eg ru usojevkel bul kolzu. Zigvihbi su ilobunju wov utosomo wiku mewaw ugavapdur ic ug walonapo cem sewil najojbu. Uhre rusur kofer vibolho uta ke nepgug otuti neh kovah cofoama poci."
+  },
+  "apiKey": "667bd67f5d47437845150155855844220b9b56b719b18e2452244c56e5fa6397",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
