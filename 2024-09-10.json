@@ -1,0 +1,26 @@
+{
+  "name": "Jon Barton",
+  "age": 36,
+  "address": {
+    "street": "Ahmo Lane",
+    "city": "Inagegwa",
+    "state": "IN",
+    "zip": "60985"
+  },
+  "contact": {
+    "phone": "(228) 390-8798",
+    "servicePhone": "800546274"
+  },
+  "birthday": "1981-05-21T07:52:57.117Z",
+  "ip": "25.118.195.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Cat tojtaj foj esicapo piwig umropcu wa agoefafi ti natwem rofop tiv jielu. Nudo zeogo tar tatbamgar no zu usafotmon daw fazute udefi wu fu. Wa cahu bemago suw teolave izrah ipe ude cekdol kak nivaaci bojip acukige. Pucu vopehdap bajallu rem pal vimdafnu burri ez jumas olutem muokeh ruceiv nomgigito ticer. Bif imatek jaham kihcepzi kokwaal puvoov tunepgil evuiwi pu kiza ibep oma bijca. Midel hama ca oppodsi ka atuze odpi uzume ju tu fivaagu kiwam. Erulifaf kis fulohoki filzuswaz askutfa girvumefu baele saj ev civo rasveldom ric sa dekcetza zuvep kechuk ke hocnazfa.",
+    "bio": "Vitajap lep wiznuspoc potipsov fizmosnav tonfukdon dotwe sajjokruh tis likofo pokaf sigmapew ge tapoor lew lab di uvu. Luwi fekfuvwa juab ojpamfi opiwezha kera sejim moadima hemojase rezezu aruci vum wojwates jaj fow. La zo copnig on pa kico iwtadfit upfogug corne kop futgisbo rib vedata cuceuli hemac uwfipsur."
+  },
+  "apiKey": "4a324fd0bb4f814b8682d2a56de0ed4105b6704e1faff69117bfc9b255498f23",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
