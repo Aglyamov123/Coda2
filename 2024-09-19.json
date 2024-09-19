@@ -1,0 +1,26 @@
+{
+  "name": "Clayton French",
+  "age": 22,
+  "address": {
+    "street": "Zero Grove",
+    "city": "Ropuec",
+    "state": "CT",
+    "zip": "67128"
+  },
+  "contact": {
+    "phone": "(410) 984-2583",
+    "servicePhone": "800919273"
+  },
+  "birthday": "1985-03-14T10:10:11.274Z",
+  "ip": "130.113.139.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Agushu lomar an jonakdu erho de powvaer suverzi lacud hecbadpuz kapindid ribasep silih uhi. Gilfu cipakwo laf nal bowmitig gorwigogi hi luotzor ta dioh dofuhsof co guvsovfaj. Ta podu siravus jekifute ted zirmureke fat ig evsiwuda jalsada fivilic ubezto ukaraf ba rig helojag wi tu. Fumfarehi ipa sufad waovo ruklesfu usubef kacuga dovoc fabaz hi ahaveefa zu ke dipbiomo fe da ci heuw.",
+    "bio": "Ucu holriwke peznubwaw nufe fufisav ebe haf pefah mejope kev ci ulivowob zewes iwu fo dijpokum irita. Ebkuku pocibic vobjo pik ze dakhawu ci vakubje dehusac kah dero osoenu rorfi ogcefvo. Midje ce zijmo wenes pelej towa umdup rifo fodni gaavaji hegen mu lisovease kirnaz zikito vaome konfirak."
+  },
+  "apiKey": "c5d61ae75087f9b2fb827346c39c93e29594df7285d321b2d26ba5e037b8bf7d",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
