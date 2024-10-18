@@ -1,0 +1,26 @@
+{
+  "name": "Raymond Roberson",
+  "age": 18,
+  "address": {
+    "street": "Wedcep Way",
+    "city": "Icipvak",
+    "state": "DC",
+    "zip": "38923"
+  },
+  "contact": {
+    "phone": "(773) 225-7894",
+    "servicePhone": "800876646"
+  },
+  "birthday": "2002-08-03T10:20:51.357Z",
+  "ip": "233.163.219.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuca teb fu wetse tiv na gacabew jaih momafso zu nim nurawhu opivevo. Ilselum wuh ipajbub vu ligamtiv zimiv hi vumowoh tulo upe vonroropa cigjawed nob intamij le libjif ejde ibizra. Ore ri sezlepoj sid ketco fipon buzas aratew ub jolgegi jebci gavzacon heraf. Batpeciw igrerak hac fen zeg sic kaja ko bulos dojar lu zaaj zunovuv kutibpev mo fememwu.",
+    "bio": "Johilok nelcejpal ago otecol na genoozo niaje fenpi curwemes hokra onawejaw ho nohva sogze ozued. Vojha nobute oksavjok rokfo leh de ki um tidzo iv lenjovbo co vipigom ashup zedzipar. Imiramep sora suj botus pujotta hag gogucpul leuharaj mohlaf eb jecjup zavo vuki ope ofi."
+  },
+  "apiKey": "15c4e7af57dfb56bde8701f54a0194a15ca0c0ed90ce0c7c808ef7abb38501c8",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
