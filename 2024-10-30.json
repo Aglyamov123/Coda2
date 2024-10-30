@@ -1,0 +1,26 @@
+{
+  "name": "Maria Hanson",
+  "age": 62,
+  "address": {
+    "street": "Nuzko River",
+    "city": "Jelabutaj",
+    "state": "MA",
+    "zip": "76776"
+  },
+  "contact": {
+    "phone": "(913) 436-5849",
+    "servicePhone": "800466373"
+  },
+  "birthday": "1983-12-27T03:23:05.222Z",
+  "ip": "28.112.120.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Zucoszi pewpav hidog kak feksa mijifpo vobcazduj elu pot pok zoburget ugaon. Zekugzan dotfe zu uruce lut pi tu civ teh hec osa jajaf seztek. Lowkitono hisuza ve nibuv ma zuzapa ihigo heb seli ebkam kemdevpek kozrin ovisojoba. Ocara cececge ot lagsa uco fatuhac ew ilojas apezo jaguz tiwirazaw ra jaufi vita dovbodvag izuca luzheg ref.",
+    "bio": "Iwwoz vir baketur we umeujju wuwra iserin ne imjauki vuvtu urriz tohudot roc nunba samebi wa mujwu evamu. Em hiahouji tahekto obe esuca bici tah pame wev huj al vobgiwjav baewa gib ruzlav wepome. Weg goeno fomcil jogder aritohpep momzi wob ze rojrinfen eflipiz iwe dijowet tomnohgi bof pagiramus."
+  },
+  "apiKey": "796a0f6d87df80a4156317c073e21000b5c25868ff959adaecfab01981db0d92",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}
