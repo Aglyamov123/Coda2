@@ -1,0 +1,26 @@
+{
+  "name": "Hulda Moreno",
+  "age": 20,
+  "address": {
+    "street": "Keci Highway",
+    "city": "Dosalira",
+    "state": "CT",
+    "zip": "86678"
+  },
+  "contact": {
+    "phone": "(333) 730-5879",
+    "servicePhone": "800364361"
+  },
+  "birthday": "2005-04-25T08:32:05.617Z",
+  "ip": "239.86.58.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Beta ca hesad ko maftar dir vibicter unco meskahwi ozbe viopidu udelod ku agfizud vo uro we ci. Gejuri ujro hoc febdaocu riivuso cilwu igefu pe se odubuvoh gimgora vu reeladuv jad joehuroh jos voos pezzonev. Joj iza jemhoofi pelnihof ihvamhul og kaw winwa gon hinne nohunun juv houcad.",
+    "bio": "Ubfual tos adkamep gibzi guol oca uho copej rohihup talpu fuskov zeb. Suhde jez ejsivit wedvezhem bej jugpaobi of atuhirvec lisebo rulewiw jugagru zid uczi valah ivbumal uva. Jica lig boc seipesa anejo fodvum guvrot nevajaama kuehuja kuungaj olu pumew zif bomcaz rili."
+  },
+  "apiKey": "509a348c5229fa6b1fd77cfe99465c9c258cf6db154b1d0f4d4ec8c386d1f0c8",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
