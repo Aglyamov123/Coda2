@@ -1,0 +1,26 @@
+{
+  "name": "Edna Alexander",
+  "age": 62,
+  "address": {
+    "street": "Juhaz Pike",
+    "city": "Kaimpa",
+    "state": "MA",
+    "zip": "27214"
+  },
+  "contact": {
+    "phone": "(908) 581-5974",
+    "servicePhone": "800163443"
+  },
+  "birthday": "1981-05-09T03:53:28.480Z",
+  "ip": "24.252.152.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Zerle rog gigufse emlekel lomirho kuuju jinarad guhavho edzoki bevivma koeto zivabsej du ziocupa tozecdal ji vu. Gozmuh ge kunacmaj fovnev naz lu epicka pim si ki gimuki kodimze harfuje podlasbu hizzor hodsakib posukemo zaod. Tozmu en hipu kusi melwaebo jaw tef hok ten se romub con ukpimo mip.",
+    "bio": "Feki mo hage kufojis vid kofzislob ta biiz ve hipe hudivhum fople hak wohugik vovdecsim. La esa dik sumlilji lakakod pisol kudatougu fuznenrup viva vu uweva napu vopaz. Humoj anuranise evo ew fi ga ulatedac gu oz ukehopob vi owbir."
+  },
+  "apiKey": "716b6db0840813b54668d0d01327cb3d8c8f78cb3d82a82910b601b4e889ffe3",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
