@@ -1,0 +1,26 @@
+{
+  "name": "Randy Kelly",
+  "age": 55,
+  "address": {
+    "street": "Ijafas Street",
+    "city": "Lijdale",
+    "state": "SD",
+    "zip": "64623"
+  },
+  "contact": {
+    "phone": "(955) 544-1704",
+    "servicePhone": "800841897"
+  },
+  "birthday": "1964-06-03T04:21:58.993Z",
+  "ip": "167.186.191.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Ji ihsivun doware run awo mupu podze fim sa wurwu ja wahjudpec ah. Masmiju obein futreh larka lik fizgev otesir zoftis efwal vowo wa forbi weda dujetoha. Vafjuhuti bijezrap dujit we vatoc biwluf kovsamno su dad feh pa uzece jicza icavafu.",
+    "bio": "Zik lekerbo gazizta poikiga cangecul guwab purjehud za natormi pojcid ubuca dunmibfup mop tiju few vosuva ipzos. Robpewle zil zaha sifinu cot mizo mol hoti iwave ureihufi mizus ononebmu taiho baznoagu palekeh gukjodzug. Fafelis su mabazmam jeecuef pu lusejajod mub ferawon rugra mamedgus kipriwdu wimke ezoz todvihe elsut guhiz vif udusot."
+  },
+  "apiKey": "1e8de069d36b27b5764e6a84a91cd4a37ee9af2941fb708dfeecacb564423f73",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
