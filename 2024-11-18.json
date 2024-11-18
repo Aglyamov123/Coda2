@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Summers",
+  "age": 29,
+  "address": {
+    "street": "Diag Parkway",
+    "city": "Nigrorul",
+    "state": "MN",
+    "zip": "97169"
+  },
+  "contact": {
+    "phone": "(731) 280-8488",
+    "servicePhone": "800983171"
+  },
+  "birthday": "1985-06-04T09:09:47.156Z",
+  "ip": "117.254.75.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Ji edpom uhicufaf ve miwufadep uni gur woksemic wos lu fiheopo uk tu abupef. Desumus walavman ge jige ogakasuk ejabutiz wav gir mumkiiz vot gafkicaf ijopoj mo. Epemieti sasjuad wokalobu dar honas mosbe sogu azocuk gabjos wifivad avtuz fuezmac amujaler raj busnopci.",
+    "bio": "Pajozoope jijnobda gikiv roshaw widpir ifomoj sa mi zenav me ipepub rejuso ol. Wepkocfe laaro go juvunikul duwig pofujak remlosis vevo ej kozehu vovheca wun wenda zi lale veji gimepki uhtow. Lom unute gouti casen ikginul elocapo pukge tivbezlib virtura ocdojru lejalu fo us ne aw. Fafaola gajadce bon rob peklif cudo zomraso rimunoj dirheovo segafa mu elidili. Ru ziropo najazub jippa ta puh we puwi fagnozem orudehda heec af piuw woci fadi warturmoz buve pobilaje."
+  },
+  "apiKey": "c8c35b67ea28cddb8e24d41dfb83f2f67d0ec97dc9972f46d74779de1d8d3e9d",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
