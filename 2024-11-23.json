@@ -1,0 +1,26 @@
+{
+  "name": "Alice Drake",
+  "age": 35,
+  "address": {
+    "street": "Ihta Manor",
+    "city": "Unurikvo",
+    "state": "TN",
+    "zip": "28040"
+  },
+  "contact": {
+    "phone": "(747) 960-6901",
+    "servicePhone": "800473788"
+  },
+  "birthday": "1989-11-21T06:45:36.297Z",
+  "ip": "7.117.5.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Juez zoh rukifva zijij omnij mow duf pir tajuv vuwri nenkuhec hiwo odatdug jeda. Juske mafol uvo uzowobki rilegco hiw dabitu fijcapsib dozsiobo huwiwi ado ifogu pojiw. Ewle iznew bocnal zuno ezu wiw aktokilu jentehem ibeziti rafke pu ka zod ebuewil tudirub adakelas suuvpe.",
+    "bio": "Jemabef kufci kuc gigu vafiuma as lebzowja zegcej ezu dolnetdi bobub buf jagona mepwo megizic. Aceimeb ec jipa zak zooheib hephut futahe gazme fajec sitlecup masin ipe losak. Mipej si kisfovu masusfi loc rozik wag ros ko pe ceziuni vufidfev. Moedi utefol jobivos si upa olejuzle vuhkatut hi fufa dinih wef cuagaere efable fodgamif wijfe ocul."
+  },
+  "apiKey": "c4d24d45e7fe5d8afa6912b72d956b78b7500356a7cdbe3cfa79dd7bbb6dfb2e",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
