@@ -1,0 +1,26 @@
+{
+  "name": "Corey Salazar",
+  "age": 60,
+  "address": {
+    "street": "Irona Plaza",
+    "city": "Forjolu",
+    "state": "NM",
+    "zip": "80898"
+  },
+  "contact": {
+    "phone": "(773) 850-2436",
+    "servicePhone": "800914223"
+  },
+  "birthday": "1989-07-14T07:58:46.619Z",
+  "ip": "3.193.168.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Kaeg uzokhaw setol jip epu ruzun ih vikfapuc dokliz nanje amlo powobna co. Piamibod din uj pagimman juabzi hipsu mo zirakuumu tuvwacgaw vuk jamih buewo uje zap wusorfi ejekizkar. Laznefso az ziv vuemsa vaiv ule saelra cisnowor zi co puti akelu zunno ezo ko foh ja mu. Zibpudcek duckuwhe mob ufa baszem fowiezi hecap zoid lucvuugu ta ew ir of tewenu.",
+    "bio": "Seraus kok akowuuva raubnuj pijvilti ahekohjo ci paj vancow notazo ulabe agu wuineowo zefiv cieg. Nivpe vo civzu su cani tuklanej wep nu cengacise unlivof fivu picuv ke nujofuf hop ju lehiwfac. Go lebiweuf lamizwek hemfotut mober lavo re umobob vo av pesab jekiccur papdibtel. Sabu te ejoguij oje wursaco sihbovo metda nipdobfed ile kunno gipik kuw ikwenin cukjahfad wav bakhep. Do hiojtob vosem nihsereg fijad defi am ajemi giahdel wimaca vocaonu ze puz vag rokdizhir."
+  },
+  "apiKey": "ffb8c702b943897386a19ab4a27b6ea12f670d7f36752da882ad8cbfec341594",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
